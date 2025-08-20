@@ -1,18 +1,17 @@
 {
-  "name": "com.bilions.betmodule",
-  "version": "1.0.8",
-  "displayName": "Bilions Bet Module",
-  "description": "Core betting system module with prefabs and UI.",
-  "unity": "2022.3",
-  "author": {
-    "name": "Bilions",
-    "email": "support@bilions.com"
-  },
-  "samples": [
-    {
-      "displayName": "UI Prefabs",
-      "description": "Example UI prefabs for bet interface (panels, buttons, etc.).",
-      "path": "Samples~/UI"
-    }
-  ]
-}
+              "name": "com.bilions.betmodule",
+              "version": "1.0.9",
+              "displayName": "Bet Module",
+              "description": "Shared betting system for slot games",
+              "unity": "2022.3",
+              "author": {
+                "name": "Bilions"
+              },
+              "samples": [
+                {
+                  "displayName": "Bet UI",
+                  "description": "Example UI prefabs and textures for betting system",
+                  "path": "Samples~/UI"
+                }
+              ]
+            }
