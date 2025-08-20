@@ -1,6 +1,6 @@
 {
   "name": "com.bilions.betmodule",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "displayName": "Bilions Bet Module",
   "description": "Core betting system module with prefabs and UI.",
   "unity": "2022.3",
@@ -12,7 +12,7 @@
     {
       "displayName": "UI Prefabs",
       "description": "Example UI prefabs for bet interface (panels, buttons, etc.).",
-      "path": "Samples~/UI Prefabs"
+      "path": "Samples~/UI"
     }
   ]
 }
