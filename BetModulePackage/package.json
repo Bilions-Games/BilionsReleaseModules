@@ -1,6 +1,6 @@
 {
   "name": "com.bilions.betmodule",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "displayName": "Bilions Bet Module",
   "description": "Core betting system module with prefabs and UI.",
   "unity": "2022.3",
