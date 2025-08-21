@@ -1,6 +1,6 @@
 {
               "name": "com.bilions.betmodule",
-              "version": "1.0.13",
+              "version": "1.0.14",
               "displayName": "Bet Module",
               "description": "Shared betting system for slot games",
               "unity": "2022.3",
