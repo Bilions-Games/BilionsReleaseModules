@@ -1,6 +1,6 @@
 {
               "name": "com.bilions.paylinemodule",
-              "version": "1.1.1",
+              "version": "1.1.2",
               "displayName": "Payline Module",
               "description": "Shared payline win-evaluation system for slot games",
               "unity": "2022.3",
