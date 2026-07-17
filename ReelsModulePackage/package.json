@@ -1,0 +1,10 @@
+{
+              "name": "com.bilions.reelsmodule",
+              "version": "1.0.0",
+              "displayName": "Reels Module",
+              "description": "Shared reel-spin, autospin, and turbo system for slot games",
+              "unity": "2022.3",
+              "author": {
+                "name": "Bilions"
+              }
+            }
