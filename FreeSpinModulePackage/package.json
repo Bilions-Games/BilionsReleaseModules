@@ -1,6 +1,6 @@
 {
               "name": "com.bilions.freespinmodule",
-              "version": "1.0.0",
+              "version": "1.0.1",
               "displayName": "FreeSpin Module",
               "description": "Shared free-spin/bonus-round orchestration for slot games",
               "unity": "2022.3",
