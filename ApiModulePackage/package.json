@@ -1,0 +1,10 @@
+{
+    "name": "com.bilions.apimodule",
+    "version": "1.0.0",
+    "displayName": "Api Module",
+    "description": "Shared backend auth/session/host-resolution layer for slot games",
+    "unity": "2022.3",
+    "author": {
+        "name": "Bilions"
+    }
+}
