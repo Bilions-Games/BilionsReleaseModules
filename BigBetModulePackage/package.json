@@ -1,0 +1,10 @@
+{
+  "name": "com.bilions.bigbetmodule",
+  "version": "1.0.0",
+  "displayName": "BigBet Module",
+  "description": "Reusable bonus-buy / Big-Bet purchase system for slot games. Flat or x-bet pricing, pre-pay round batches (one request returns N rounds), jurisdiction gating. Headless, dependency-free.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Bilions"
+  }
+}
